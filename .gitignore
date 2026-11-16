@@ -1,0 +1,9 @@
+# ignore zz_folders
+
+zz_*
+
+
+# ignore data files
+*.csv
+*.parquet
+
